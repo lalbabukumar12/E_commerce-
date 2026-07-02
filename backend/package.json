@@ -1,0 +1,10 @@
+{
+  "name": "rushbasket-backend",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Local API for the RushBasket frontend and admin dashboard.",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  }
+}
